@@ -1,0 +1,10 @@
+click
+Django>=3.0,<4.0
+gunicorn
+ipython
+psycopg2>=2.8
+whitenoise
+# Django extensions
+dj-database-url
+django-phonenumbers
+django-phonenumber-field
